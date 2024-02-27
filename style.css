@@ -7,6 +7,7 @@ body{
     max-width: 1220px;
     margin: auto;
 
+
 }
 
 
@@ -195,10 +196,12 @@ body{
 .education-subtitle{
     color: #ff6551;
     font-size: 18px;
+    text-align: left;
 }
 
 .education-title{
     font-size: 42px;
+    text-align: left;
 }
 
 .education-text{
@@ -269,7 +272,7 @@ body{
 
 .item-rating a{
     color: #ff6551;
-    font-size: 24px;
+    font-size: 20px;
     text-decoration: none;
     font-weight: bold;
 }
@@ -287,7 +290,7 @@ body{
     margin-left: 8px;
 }
 .item-title{
-    font-size: 26px;
+    font-size: 24px;
     margin: 10px 0 ;
 }
 .item-text{
@@ -338,12 +341,14 @@ body{
 
 .popular h6{
     color: #ff6551;
+    text-align: left;
 }
 
 .popular-title{
     color: white;
     font-size: 42px;
     font-weight: bold;
+    text-align: left;
 }
 
 .popular-text{
@@ -365,6 +370,10 @@ body{
 .popular-free{
     font-size: 30px;
     font-weight: bold;
+}
+
+.popular-card img {
+
 }
 
 .popular-card-text{
@@ -490,7 +499,9 @@ body{
 }
 
 .container{
-   text-align: center;
+
+    align-items: center;
+    justify-content: center;
 
 }
 
@@ -575,4 +586,8 @@ body{
 .sss{
     display: flex;
     padding-left: 750px;
+}
+
+.footerning-tepasi {
+    text-align: center;
 }
