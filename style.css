@@ -435,4 +435,144 @@ body{
 .popular-card.new .new-item{
     display: flex;
 }
+.papular-2{
 
+}
+
+.test{
+    color: #ff6551;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 200px;
+}
+
+.divlar2ta{
+    display: flex;
+    padding: 100px;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.our{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: left;
+}
+
+
+.problames{
+    color: #737373;
+    width: 400px;
+    text-align: left;
+
+}
+
+
+
+.people .fast{
+    border-radius: 50%;
+
+}
+
+.slate{
+    width: 300px;
+    color: #737373;
+    text-align: center;
+    align-items: center;
+}
+
+.regin{
+    font-weight: bold;
+    font-size: 20px;
+}
+.desginer{
+    color: #737373;
+}
+
+.container{
+   text-align: center;
+
+}
+
+.new-sis{
+    color:#ff6551;
+    margin-top: 200px;
+}
+
+.cour2{
+    font-weight: bold;
+    font-size: 50px;
+    padding: 10px 0;
+}
+
+.pro{
+    color: #737373;
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+
+}
+
+.orqa{
+    background-color: #ff6551;
+    color: white;
+    margin-left: -10px;
+    padding: 19px 30px;
+    border: none;
+}
+.oera{
+    width: 50%;
+    height: 50px;
+    padding-left: 30px;
+    border: none;
+    background-color: #dcdada;
+}
+
+
+.sms{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 1px 20px 1px ;
+}
+
+.info1{
+    font-weight: bold;
+    color: black;
+}
+
+.licha{
+    list-style: none;
+    padding: 1px;
+    color: #737373;
+}
+
+.li1{
+    display: flex;
+    align-items: center;
+}
+
+.rasmcha{
+    padding-right: 10px;
+}
+
+.info{
+    color: #737373;
+}
+
+.kkk{
+    display: flex;
+    align-items: center;
+    background-color: #FAFAFA;
+    color: #737373;
+    height: 80px;
+    font-weight: bold;
+}
+
+.qush{
+    padding-left: 10px;
+}
+
+.sss{
+    display: flex;
+    padding-left: 750px;
+}
